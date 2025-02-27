@@ -1,1 +1,3 @@
 # DroneX
+##PROJECT OVERVIEW
+This project aims to create an innovative and advanced surveillance system using an autonomous drone. The system leverages real-time video streaming, precise area monitoring, and sophisticated obstacle detection. It is designed to enhance security and monitoring capabilities by allowing users to define surveillance boundaries on an interactive map. Users can choose between autonomous and manual survey modes, providing flexibility and control. The drone navigates autonomously within the specified boundaries or follows user-defined paths, ensuring comprehensive coverage and safety.
